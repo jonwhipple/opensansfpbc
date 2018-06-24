@@ -1,16 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-l,
-"/lbelt",
-"/uni019B",
-"/schwa",
-"/uni0331",
-"/uni02B7",
-"/uni1DB1",
-"/uni02D0",
-"/uni1DB1"
-);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {

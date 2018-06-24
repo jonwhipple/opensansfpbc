@@ -1,9 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"/uni1DB1 kqx/uni02B7 e/schwa ase/glottalstop an",
-"/dcaron/gcommaaccent/Lcaron/lcaron/tcaron/afii10062/afii10027/afii10075/afii10110/uni0498/uni0499/uni04AA/uni04AB/uni04C1/uni04C2/uni04D0/uni04D1/uni04D6/uni04D7/uni04FA/uni04FB/uni04FC/uni04FD/uni0512/uni0513/uni1EA4/uni1EA5/uni1EA6/uni1EA7/uni1EA8/uni1EA9/uni1EAA/uni1EAB/uni1EAE/uni1EAF/uni1EB0/uni1EB1/uni1EB2/uni1EB3/uni1EB4/uni1EB5/uni1EBE/uni1EBF/uni1EC0/uni1EC1/uni1EC2/uni1EC3/uni1EC4/uni1EC5/uni1ED0/uni1ED1/uni1ED2/uni1ED3/uni1ED4/uni1ED5/uni1ED6/uni1ED7/gcommaaccent.alt"
-);
 copyright = "Digitized data copyright (C) 2011, Google Corporation.";
 customParameters = (
 {
