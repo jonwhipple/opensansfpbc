@@ -1,0 +1,4 @@
+unicode for IPA
+unicode for combining diacritics
+unicode for combining diacritics extended
+unicode other?
