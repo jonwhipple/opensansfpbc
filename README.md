@@ -13,7 +13,7 @@ At time of this writing (2018-06-23), the fonts provide coverage for **Hulâ€™qâ€
 
 ## Directory Structure
 
-`dist` contains compressed (`.zip`) archives of compile binaries in 5 flavours:
+`dist` contains compressed (`.zip`) archives of compiled binaries in 5 flavours:
 - Embedded OpenType (`.eot`)
 - OpenType Font (`.otf`)
 - TrueType Font (`.ttf`)
