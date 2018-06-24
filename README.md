@@ -22,6 +22,6 @@ At time of this writing (2018-06-23), the fonts provide coverage for **Hulâ€™qâ€
 
 `documentation` contains the design brief as well as other notes and files.
 
-`fonts` contains compile binary font files as a reference (see [Google Fonts Quick Start](https://github.com/googlefonts/gf-docs/blob/master/QuickStartGlyphs.md) )
+`fonts` contains compiled binary font files as a reference (see [Google Fonts Quick Start](https://github.com/googlefonts/gf-docs/blob/master/QuickStartGlyphs.md) )
 
 `sources` contains source `.glyphs` files
