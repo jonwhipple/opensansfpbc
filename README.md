@@ -13,7 +13,13 @@ At time of this writing (2018-06-23), the fonts provide _qualified coverage_ for
 
 Qualified coverage means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
 
-The following weights are incomplete:
+The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
+- Light
+- LightItalic
+- Bold
+- BoldItalic
+
+The following weights provide only partial coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
 - Regular
 - Italic
 - Semibold
