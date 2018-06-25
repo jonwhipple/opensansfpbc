@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/glottalstopinverted"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -35838,7 +35841,7 @@ unicode = 02A5;
 {
 color = 9;
 glyphname = eopen;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 17:30:40 +0000";
 layers = (
 {
 anchors = (
@@ -35851,8 +35854,13 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = epsilon;
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 973;
 }
 );
 unicode = 025B;
@@ -35872,7 +35880,7 @@ unicode = 029A;
 {
 color = 9;
 glyphname = eopenreversed;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 17:31:03 +0000";
 layers = (
 {
 anchors = (
@@ -35885,8 +35893,14 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = epsilon;
+transform = "{-1, 0, 0, 1, 973, 0}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 973;
 }
 );
 unicode = 025C;
@@ -36260,11 +36274,49 @@ unicode = 0294;
 {
 color = 9;
 glyphname = glottalstopinverted;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-25 17:33:38 +0000";
 layers = (
 {
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"289 1462 LINE",
+"289 1005 LINE SMOOTH",
+"289 849 OFFCURVE",
+"328 765 OFFCURVE",
+"459 653 CURVE SMOOTH",
+"639 499 OFFCURVE",
+"666 449 OFFCURVE",
+"666 340 CURVE SMOOTH",
+"666 204 OFFCURVE",
+"576 127 OFFCURVE",
+"412 127 CURVE SMOOTH",
+"307 127 OFFCURVE",
+"215 148 OFFCURVE",
+"86 213 CURVE",
+"27 78 LINE",
+"153 12 OFFCURVE",
+"285 -21 OFFCURVE",
+"422 -21 CURVE SMOOTH",
+"677 -21 OFFCURVE",
+"825 110 OFFCURVE",
+"825 338 CURVE SMOOTH",
+"825 435 OFFCURVE",
+"798 505 OFFCURVE",
+"748 571 CURVE SMOOTH",
+"723 604 OFFCURVE",
+"668 658 OFFCURVE",
+"584 731 CURVE SMOOTH",
+"450 847 OFFCURVE",
+"418 899 OFFCURVE",
+"418 1026 CURVE SMOOTH",
+"418 1462 LINE"
+);
+}
+);
+width = 879;
 }
 );
 unicode = 0296;
@@ -36854,11 +36906,17 @@ unicode = 027A;
 {
 color = 9;
 glyphname = rturned;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-25 17:30:14 +0000";
 layers = (
 {
+components = (
+{
+name = r;
+transform = "{-1, 0, 0, -1, 836, 1096}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 836;
 }
 );
 unicode = 0279;
