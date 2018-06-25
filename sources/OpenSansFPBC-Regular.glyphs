@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/glottalstopreversed"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -36116,11 +36119,49 @@ unicode = 0296;
 {
 color = 9;
 glyphname = glottalstopreversed;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-25 15:28:55 +0000";
 layers = (
 {
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"590 0 LINE",
+"590 457 LINE SMOOTH",
+"590 613 OFFCURVE",
+"551 697 OFFCURVE",
+"420 809 CURVE SMOOTH",
+"239 962 OFFCURVE",
+"213 1013 OFFCURVE",
+"213 1122 CURVE SMOOTH",
+"213 1258 OFFCURVE",
+"303 1335 OFFCURVE",
+"467 1335 CURVE SMOOTH",
+"572 1335 OFFCURVE",
+"664 1314 OFFCURVE",
+"793 1249 CURVE",
+"852 1384 LINE",
+"726 1450 OFFCURVE",
+"594 1483 OFFCURVE",
+"457 1483 CURVE SMOOTH",
+"202 1483 OFFCURVE",
+"54 1352 OFFCURVE",
+"54 1124 CURVE SMOOTH",
+"54 1027 OFFCURVE",
+"80 957 OFFCURVE",
+"131 891 CURVE SMOOTH",
+"156 858 OFFCURVE",
+"211 804 OFFCURVE",
+"295 731 CURVE SMOOTH",
+"430 616 OFFCURVE",
+"461 563 OFFCURVE",
+"461 436 CURVE SMOOTH",
+"461 0 LINE"
+);
+}
+);
+width = 879;
 }
 );
 unicode = 0295;
