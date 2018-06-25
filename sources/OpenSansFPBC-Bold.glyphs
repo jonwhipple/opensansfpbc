@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/uni036E"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -39450,7 +39453,7 @@ unicode = 029E;
 {
 color = 9;
 glyphname = lbelt;
-lastChange = "2018-06-23 23:49:06 +0000";
+lastChange = "2018-06-25 15:17:28 +0000";
 layers = (
 {
 anchors = (
@@ -39494,7 +39497,7 @@ nodes = (
 );
 }
 );
-width = 541;
+width = 540;
 }
 );
 leftMetricsKey = t;
@@ -42179,7 +42182,7 @@ unicode = AB53;
 {
 color = 7;
 glyphname = uni1DB1;
-lastChange = "2018-06-23 23:49:06 +0000";
+lastChange = "2018-06-25 15:18:08 +0000";
 layers = (
 {
 guideLines = (
@@ -42242,7 +42245,7 @@ nodes = (
 );
 }
 );
-width = 417;
+width = 418;
 }
 );
 leftMetricsKey = o;
@@ -47385,7 +47388,7 @@ unicode = 0368;
 {
 color = 4;
 glyphname = uni0369;
-lastChange = "2018-06-23 23:49:06 +0000";
+lastChange = "2018-06-25 15:19:13 +0000";
 layers = (
 {
 anchors = (
@@ -47460,7 +47463,7 @@ nodes = (
 );
 }
 );
-width = 442;
+width = 443;
 }
 );
 leftMetricsKey = d;
@@ -47686,7 +47689,7 @@ unicode = 036C;
 {
 color = 4;
 glyphname = uni036D;
-lastChange = "2018-06-23 23:49:06 +0000";
+lastChange = "2018-06-25 15:19:17 +0000";
 layers = (
 {
 anchors = (
@@ -47749,7 +47752,7 @@ nodes = (
 );
 }
 );
-width = 292;
+width = 291;
 }
 );
 leftMetricsKey = t;
