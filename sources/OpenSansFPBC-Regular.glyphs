@@ -1,5 +1,9 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/Lsmall",
+"/alphaturned-latin"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -35364,7 +35368,7 @@ unicode = 029C;
 {
 color = 9;
 glyphname = Ismall;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 16:44:01 +0000";
 layers = (
 {
 anchors = (
@@ -35373,12 +35377,39 @@ name = bottom;
 position = "{300, 0}";
 },
 {
+name = ogonek;
+position = "{614, 10}";
+},
+{
 name = top;
 position = "{300, 1096}";
+},
+{
+name = topleft;
+position = "{20, 1462}";
 }
 );
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"426 133 LINE",
+"426 961 LINE",
+"598 998 LINE",
+"598 1096 LINE",
+"84 1096 LINE",
+"84 998 LINE",
+"256 961 LINE",
+"256 133 LINE",
+"84 98 LINE",
+"84 0 LINE",
+"598 0 LINE",
+"598 98 LINE"
+);
+}
+);
+width = 682;
 }
 );
 unicode = 026A;
@@ -35386,7 +35417,7 @@ unicode = 026A;
 {
 color = 9;
 glyphname = Lsmall;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 16:46:25 +0000";
 layers = (
 {
 anchors = (
@@ -35399,8 +35430,14 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = afii10068;
+transform = "{1, 0, 0, -1, 0, 1096}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 877;
 }
 );
 unicode = 029F;
@@ -35533,7 +35570,7 @@ unicode = 028F;
 {
 color = 9;
 glyphname = "alpha-latin";
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 16:47:05 +0000";
 layers = (
 {
 anchors = (
@@ -35546,8 +35583,13 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = alpha;
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1251;
 }
 );
 unicode = 0251;
@@ -35555,7 +35597,7 @@ unicode = 0251;
 {
 color = 9;
 glyphname = "alphaturned-latin";
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 16:48:04 +0000";
 layers = (
 {
 anchors = (
@@ -35568,8 +35610,14 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = "alpha-latin";
+transform = "{-1, 0, 0, 1, 1251, 0}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1251;
 }
 );
 unicode = 0252;
