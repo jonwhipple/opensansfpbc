@@ -1,9 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"/Lsmall",
-"/alphaturned-latin"
-);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -35280,7 +35276,7 @@ unicode = 1ECA;
 {
 color = 9;
 glyphname = Bsmall;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 17:20:07 +0000";
 layers = (
 {
 anchors = (
@@ -35293,8 +35289,13 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = afii10067;
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1165;
 }
 );
 unicode = 0299;
@@ -35514,7 +35515,7 @@ unicode = 0276;
 {
 color = 9;
 glyphname = Rsmall;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 17:22:27 +0000";
 layers = (
 {
 anchors = (
@@ -35527,8 +35528,14 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = afii10097;
+transform = "{-1, 0, 0, 1, 1137, 0}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1137;
 }
 );
 unicode = 0280;
@@ -35536,11 +35543,17 @@ unicode = 0280;
 {
 color = 9;
 glyphname = Rsmallinverted;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-25 17:22:57 +0000";
 layers = (
 {
+components = (
+{
+name = afii10097;
+transform = "{-1, 0, 0, -1, 1137, 1096}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1137;
 }
 );
 unicode = 0281;
@@ -35625,7 +35638,7 @@ unicode = 0252;
 {
 color = 9;
 glyphname = aturned;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-25 17:27:02 +0000";
 layers = (
 {
 anchors = (
@@ -35638,8 +35651,14 @@ name = top;
 position = "{300, 1096}";
 }
 );
+components = (
+{
+name = a;
+transform = "{-1, 0, 0, -1, 1139, 1096}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1139;
 }
 );
 unicode = 0250;
