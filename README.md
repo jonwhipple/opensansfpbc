@@ -9,7 +9,17 @@ The secondary, but no less important goal, is to complete and test the expanded 
 
 ## Language Coverage
 
-At time of this writing (2018-06-23), the fonts provide coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
+At time of this writing (2018-06-23), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
+
+Qualified coverage means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
+
+The following weights are incomplete:
+- Regular
+- Italic
+- Semibold
+- Semibold-Italic
+- ExtraBold
+- ExtraBold-Italic
 
 ## Directory Structure
 

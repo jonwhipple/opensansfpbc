@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/oopen"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -42834,17 +42837,17 @@ unicode = 0277;
 {
 color = 9;
 glyphname = oopen;
-lastChange = "2018-06-23 23:45:44 +0000";
+lastChange = "2018-06-25 14:56:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{207, 0}";
+position = "{206, 0}";
 },
 {
 name = top;
-position = "{320, 531}";
+position = "{319, 531}";
 }
 );
 layerId = "4082F5B4-16CD-4EE9-8420-2E9C5A704856";
@@ -42852,36 +42855,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"41 26 OFFCURVE",
-"95 -10 OFFCURVE",
-"178 -10 CURVE SMOOTH",
-"326 -10 OFFCURVE",
-"437 93 OFFCURVE",
-"474 266 CURVE SMOOTH",
-"510 437 OFFCURVE",
-"444 541 OFFCURVE",
-"298 541 CURVE SMOOTH",
-"224 541 OFFCURVE",
-"158 515 OFFCURVE",
-"107 466 CURVE",
-"145 443 LINE",
-"183 478 OFFCURVE",
-"231 497 OFFCURVE",
-"287 497 CURVE SMOOTH",
-"404 497 OFFCURVE",
-"454 413 OFFCURVE",
-"423 266 CURVE SMOOTH",
-"392 120 OFFCURVE",
-"307 34 OFFCURVE",
-"189 34 CURVE SMOOTH",
-"126 34 OFFCURVE",
-"83 60 OFFCURVE",
-"61 106 CURVE",
-"14 84 LINE"
+"40 26 OFFCURVE",
+"94 -10 OFFCURVE",
+"177 -10 CURVE SMOOTH",
+"325 -10 OFFCURVE",
+"436 93 OFFCURVE",
+"473 266 CURVE SMOOTH",
+"509 437 OFFCURVE",
+"443 541 OFFCURVE",
+"297 541 CURVE SMOOTH",
+"223 541 OFFCURVE",
+"157 515 OFFCURVE",
+"106 466 CURVE",
+"144 443 LINE",
+"182 478 OFFCURVE",
+"230 497 OFFCURVE",
+"286 497 CURVE SMOOTH",
+"403 497 OFFCURVE",
+"453 413 OFFCURVE",
+"422 266 CURVE SMOOTH",
+"391 120 OFFCURVE",
+"306 34 OFFCURVE",
+"188 34 CURVE SMOOTH",
+"125 34 OFFCURVE",
+"82 60 OFFCURVE",
+"60 106 CURVE",
+"13 84 LINE"
 );
 }
 );
-width = 527;
+width = 526;
 }
 );
 leftMetricsKey = o;
