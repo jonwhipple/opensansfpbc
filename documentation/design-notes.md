@@ -13,5 +13,5 @@ Componentize hooks
   - use hook of j for all bottoms
 
 Some questions to answer
-  - Should bottom hooks go to full decender depth?
-  - Should top hooks go to ascender height?
+  - Should bottom hooks go to full decender depth? YES match lc letters
+  - Should top hooks go to ascender height? YES let's look consistent
