@@ -26571,7 +26571,7 @@ unicode = 0478;
 },
 {
 glyphname = uni0479;
-lastChange = "2018-06-23 23:43:58 +0000";
+lastChange = "2018-06-25 14:52:29 +0000";
 layers = (
 {
 components = (
@@ -26580,11 +26580,11 @@ name = o;
 },
 {
 name = y;
-transform = "{1, 0, 0, 1, 532, 0}";
+transform = "{1, 0, 0, 1, 553, 0}";
 }
 );
 layerId = "5202FA21-D17A-4E33-A53E-97CF8C508FBD";
-width = 1022;
+width = 1043;
 }
 );
 note = uni0479;
