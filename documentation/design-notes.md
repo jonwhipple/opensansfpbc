@@ -15,3 +15,9 @@ Componentize hooks
 Some questions to answer
   - Should bottom hooks go to full decender depth? YES match lc letters
   - Should top hooks go to ascender height? YES let's look consistent
+
+## 2018-06-26
+
+Review the ligature approach to digraphs
+
+Curls such as ccurl and ezhcurl and others: should they curl down? or across horizontally?
