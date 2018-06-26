@@ -20,7 +20,7 @@ The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméy
 - BoldItalic
 
 The following weights provide only partial coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
-- Regular ← this is where most of the action is presently (2018-06-25), see branch `more-coverage`
+- Regular
 - Italic
 - Semibold
 - Semibold-Italic
