@@ -21,3 +21,8 @@ Some questions to answer
 Review the ligature approach to digraphs
 
 Curls such as ccurl and ezhcurl and others: should they curl down? or across horizontally?
+
+
+## 2018-06-27
+
+review omegaclosed-latin uni0277 and reconstruct it properly. all weights
