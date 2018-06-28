@@ -1,11 +1,7 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"/dezh",
-"/lzdigraph",
-"/lezh",
-"/eopenreversedhook",
-"/schwahook"
+"/eopenclosed"
 );
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
@@ -36234,13 +36230,86 @@ unicode = 025B;
 {
 color = 9;
 glyphname = eopenclosed;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-28 04:38:02 +0000";
 layers = (
 {
-layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+background = {
+paths = (
+{
+closed = 0;
+nodes = (
+"1594 1116 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"1589 975 LINE"
+);
 }
 );
+};
+layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
+paths = (
+{
+closed = 1;
+nodes = (
+"537 975 LINE",
+"763 975 OFFCURVE",
+"877 828 OFFCURVE",
+"877 549 CURVE SMOOTH",
+"877 268 OFFCURVE",
+"762 119 OFFCURVE",
+"549 117 CURVE",
+"541 -20 LINE",
+"858 -20 OFFCURVE",
+"1049 192 OFFCURVE",
+"1049 549 CURVE SMOOTH",
+"1049 897 OFFCURVE",
+"855 1116 OFFCURVE",
+"541 1116 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"549 117 LINE",
+"354 117 OFFCURVE",
+"256 185 OFFCURVE",
+"256 305 CURVE SMOOTH",
+"256 435 OFFCURVE",
+"360 500 OFFCURVE",
+"567 500 CURVE SMOOTH",
+"660 500 LINE",
+"665 641 LINE",
+"604 641 LINE SMOOTH",
+"393 641 OFFCURVE",
+"287 698 OFFCURVE",
+"287 813 CURVE SMOOTH",
+"287 921 OFFCURVE",
+"370 975 OFFCURVE",
+"537 975 CURVE",
+"541 1116 LINE",
+"285 1116 OFFCURVE",
+"125 1002 OFFCURVE",
+"125 825 CURVE SMOOTH",
+"125 702 OFFCURVE",
+"199 615 OFFCURVE",
+"330 578 CURVE",
+"330 567 LINE",
+"157 512 OFFCURVE",
+"90 428 OFFCURVE",
+"90 297 CURVE SMOOTH",
+"90 100 OFFCURVE",
+"261 -20 OFFCURVE",
+"541 -20 CURVE"
+);
+}
+);
+width = 1164;
+}
+);
+rightMetricsKey = o;
 unicode = 029A;
 },
 {
@@ -36274,21 +36343,17 @@ unicode = 025C;
 {
 color = 9;
 glyphname = eopenreversedclosed;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-06-28 04:02:33 +0000";
 layers = (
 {
-anchors = (
+components = (
 {
-name = bottom;
-position = "{300, 0}";
-},
-{
-name = top;
-position = "{300, 1096}";
+name = eopenclosed;
+transform = "{-1, 0, 0, 1, 1164, 0}";
 }
 );
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+width = 1164;
 }
 );
 unicode = 025E;
@@ -37989,11 +38054,28 @@ unicode = 0273;
 {
 color = 9;
 glyphname = obarred;
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-28 04:23:40 +0000";
 layers = (
 {
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"1049 625 LINE",
+"189 625 LINE",
+"189 473 LINE",
+"1049 473 LINE"
+);
+}
+);
+width = 1237;
 }
 );
 unicode = 0275;
@@ -38001,13 +38083,73 @@ unicode = 0275;
 {
 color = 9;
 glyphname = "omegaclosed-latin";
-lastChange = "2017-04-22 23:48:47 +0000";
+lastChange = "2018-06-28 04:37:27 +0000";
 layers = (
 {
-layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+guideLines = (
+{
+angle = 270;
+position = "{683, 558}";
 }
 );
+layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
+paths = (
+{
+closed = 1;
+nodes = (
+"115 151 OFFCURVE",
+"216 -20 OFFCURVE",
+"413 -20 CURVE SMOOTH",
+"544 -20 OFFCURVE",
+"625 47 OFFCURVE",
+"680 220 CURVE",
+"686 220 LINE",
+"741 47 OFFCURVE",
+"822 -20 OFFCURVE",
+"953 -20 CURVE SMOOTH",
+"1150 -20 OFFCURVE",
+"1251 151 OFFCURVE",
+"1251 431 CURVE SMOOTH",
+"1251 748 OFFCURVE",
+"1039 939 OFFCURVE",
+"683 939 CURVE SMOOTH",
+"327 939 OFFCURVE",
+"115 748 OFFCURVE",
+"115 431 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"252 652 OFFCURVE",
+"403 767 OFFCURVE",
+"683 767 CURVE SMOOTH",
+"963 767 OFFCURVE",
+"1112 652 OFFCURVE",
+"1114 439 CURVE SMOOTH",
+"1116 244 OFFCURVE",
+"1069 146 OFFCURVE",
+"949 146 CURVE SMOOTH",
+"819 146 OFFCURVE",
+"754 250 OFFCURVE",
+"754 457 CURVE SMOOTH",
+"754 552 LINE",
+"612 552 LINE",
+"612 457 LINE SMOOTH",
+"612 250 OFFCURVE",
+"547 146 OFFCURVE",
+"417 146 CURVE SMOOTH",
+"297 146 OFFCURVE",
+"252 244 OFFCURVE",
+"252 439 CURVE SMOOTH"
+);
+}
+);
+width = 1366;
+}
+);
+leftMetricsKey = o;
+rightMetricsKey = o;
 unicode = 0277;
 },
 {
