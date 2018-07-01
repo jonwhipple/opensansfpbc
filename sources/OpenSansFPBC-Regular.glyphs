@@ -1,8 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"/ramshorn"
-);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -43771,7 +43768,7 @@ width = 1212;
 {
 color = 4;
 glyphname = uni0363;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-07-01 18:36:08 +0000";
 layers = (
 {
 anchors = (
@@ -43780,12 +43777,76 @@ name = _top;
 position = "{0, 1096}";
 },
 {
+name = ogonek;
+position = "{1025, 10}";
+},
+{
 name = top;
 position = "{0, 0}";
 }
 );
+guideLines = (
+{
+angle = 180;
+position = "{444, 1310}";
+},
+{
+position = "{146, 662}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"997 1096 LINE SMOOTH",
+"997 1246 OFFCURVE",
+"925 1310 OFFCURVE",
+"773 1310 CURVE SMOOTH",
+"698 1310 OFFCURVE",
+"620 1289 OFFCURVE",
+"557 1254 CURVE",
+"587 1181 LINE",
+"654 1213 OFFCURVE",
+"715 1230 OFFCURVE",
+"768 1230 CURVE SMOOTH",
+"862 1230 OFFCURVE",
+"902 1183 OFFCURVE",
+"902 1083 CURVE SMOOTH",
+"902 1044 LINE",
+"795 1040 LINE SMOOTH",
+"589 1033 OFFCURVE",
+"486 967 OFFCURVE",
+"486 838 CURVE SMOOTH",
+"486 717 OFFCURVE",
+"563 650 OFFCURVE",
+"688 650 CURVE SMOOTH",
+"784 650 OFFCURVE",
+"839 673 OFFCURVE",
+"902 753 CURVE",
+"906 753 LINE",
+"926 662 LINE",
+"997 662 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"632 730 OFFCURVE",
+"587 767 OFFCURVE",
+"587 837 CURVE SMOOTH",
+"587 926 OFFCURVE",
+"651 962 OFFCURVE",
+"804 971 CURVE SMOOTH",
+"900 976 LINE",
+"900 918 LINE SMOOTH",
+"900 800 OFFCURVE",
+"828 730 OFFCURVE",
+"707 730 CURVE SMOOTH"
+);
+}
+);
+width = 1139;
 }
 );
 unicode = 0363;
@@ -43925,7 +43986,7 @@ unicode = 0369;
 {
 color = 4;
 glyphname = uni036A;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-07-01 18:35:31 +0000";
 layers = (
 {
 anchors = (
@@ -43938,8 +43999,48 @@ name = top;
 position = "{0, 0}";
 }
 );
+guideLines = (
+{
+angle = 180;
+position = "{444, 1310}";
+},
+{
+position = "{146, 662}";
+}
+);
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"645 1078 LINE SMOOTH",
+"645 1239 OFFCURVE",
+"567 1310 OFFCURVE",
+"411 1310 CURVE SMOOTH",
+"321 1310 OFFCURVE",
+"238 1272 OFFCURVE",
+"200 1211 CURVE",
+"194 1211 LINE",
+"197 1232 OFFCURVE",
+"199 1260 OFFCURVE",
+"199 1293 CURVE SMOOTH",
+"199 1567 LINE",
+"92 1567 LINE",
+"92 662 LINE",
+"199 662 LINE",
+"199 975 LINE SMOOTH",
+"199 1141 OFFCURVE",
+"258 1209 OFFCURVE",
+"392 1209 CURVE SMOOTH",
+"492 1209 OFFCURVE",
+"538 1158 OFFCURVE",
+"538 1054 CURVE SMOOTH",
+"538 662 LINE",
+"645 662 LINE"
+);
+}
+);
+width = 731;
 }
 );
 unicode = 036A;
