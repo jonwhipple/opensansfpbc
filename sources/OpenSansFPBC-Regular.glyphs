@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"k/uni02B7 as/schwa n\012/chi-latin/uni02B7 il/uni0313/schwa m"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -4941,7 +4944,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2017-05-08 00:30:21 +0000";
+lastChange = "2018-07-09 18:14:11 +0000";
 layers = (
 {
 anchors = (
@@ -40515,7 +40518,7 @@ unicode = 02B0;
 {
 color = 9;
 glyphname = uni02B7;
-lastChange = "2018-07-09 17:35:15 +0000";
+lastChange = "2018-07-09 18:08:24 +0000";
 layers = (
 {
 guideLines = (
@@ -40529,44 +40532,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"447 1001 LINE SMOOTH",
-"458 1035 OFFCURVE",
-"470 1082 OFFCURVE",
+"323 662 LINE",
+"444 1001 LINE SMOOTH",
+"456 1035 OFFCURVE",
+"469 1082 OFFCURVE",
 "480 1144 CURVE",
 "484 1144 LINE",
-"498 1070 OFFCURVE",
-"509 1023 OFFCURVE",
-"516 1002 CURVE SMOOTH",
-"623 662 LINE",
+"500 1070 OFFCURVE",
+"512 1023 OFFCURVE",
+"520 1002 CURVE SMOOTH",
+"637 662 LINE",
 "767 662 LINE",
 "943 1300 LINE",
-"821 1300 LINE",
-"753 1042 OFFCURVE",
-"716 899 OFFCURVE",
-"711 872 CURVE SMOOTH",
-"706 846 OFFCURVE",
-"701 827 OFFCURVE",
-"699 814 CURVE",
-"695 814 LINE",
+"824 1300 LINE",
+"750 1042 OFFCURVE",
+"719 899 OFFCURVE",
+"713 872 CURVE SMOOTH",
+"708 846 OFFCURVE",
+"702 827 OFFCURVE",
+"700 814 CURVE",
+"696 814 LINE",
 "688 855 OFFCURVE",
-"673 906 OFFCURVE",
-"654 967 CURVE SMOOTH",
-"551 1300 LINE",
-"419 1300 LINE",
-"312 967 LINE SMOOTH",
-"300 930 OFFCURVE",
+"670 905 OFFCURVE",
+"651 967 CURVE SMOOTH",
+"548 1300 LINE",
+"423 1300 LINE",
+"315 967 LINE SMOOTH",
+"303 930 OFFCURVE",
 "279 853 OFFCURVE",
-"271 813 CURVE",
-"267 813 LINE",
-"264 840 OFFCURVE",
-"253 891 OFFCURVE",
-"233 967 CURVE SMOOTH",
-"213 1043 OFFCURVE",
+"270 813 CURVE",
+"265 813 LINE",
+"262 840 OFFCURVE",
+"250 891 OFFCURVE",
+"228 967 CURVE SMOOTH",
+"206 1043 OFFCURVE",
 "185 1154 OFFCURVE",
-"148 1300 CURVE",
+"144 1300 CURVE",
 "23 1300 LINE",
-"197 662 LINE",
-"337 662 LINE"
+"197 662 LINE"
 );
 }
 );
@@ -41443,7 +41446,7 @@ unicode = 0312;
 {
 color = 4;
 glyphname = uni0313;
-lastChange = "2018-07-09 17:39:58 +0000";
+lastChange = "2018-07-09 18:13:50 +0000";
 layers = (
 {
 anchors = (
@@ -41483,7 +41486,7 @@ nodes = (
 );
 }
 );
-width = 0;
+width = 10;
 }
 );
 unicode = 0313;
@@ -50956,6 +50959,9 @@ uni1EDD = -41;
 uni1EDF = -41;
 uni1EE1 = -41;
 uni1EE3 = -41;
+};
+l = {
+uni0313 = 70;
 };
 lambda = {
 alpha = -20;
