@@ -4227,7 +4227,7 @@ unicode = 0060;
 },
 {
 glyphname = a;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-07-09 17:28:31 +0000";
 layers = (
 {
 anchors = (
@@ -5240,7 +5240,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-07-09 17:35:46 +0000";
 layers = (
 {
 anchors = (
@@ -37114,7 +37114,7 @@ unicode = 0285;
 {
 color = 9;
 glyphname = schwa;
-lastChange = "2018-06-25 16:35:32 +0000";
+lastChange = "2018-07-09 17:28:54 +0000";
 layers = (
 {
 anchors = (
@@ -40515,7 +40515,7 @@ unicode = 02B0;
 {
 color = 9;
 glyphname = uni02B7;
-lastChange = "2018-07-05 14:42:02 +0000";
+lastChange = "2018-07-09 17:35:15 +0000";
 layers = (
 {
 guideLines = (
@@ -41443,13 +41443,13 @@ unicode = 0312;
 {
 color = 4;
 glyphname = uni0313;
-lastChange = "2017-05-08 00:18:55 +0000";
+lastChange = "2018-07-09 17:39:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{119, 1096}";
+position = "{0, 1096}";
 },
 {
 name = top;
@@ -41461,29 +41461,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"238 1539 OFFCURVE",
-"190 1589 OFFCURVE",
-"115 1589 CURVE SMOOTH",
-"54 1589 OFFCURVE",
-"23 1564 OFFCURVE",
-"23 1513 CURVE SMOOTH",
-"23 1477 OFFCURVE",
-"47 1464 OFFCURVE",
-"71 1453 CURVE SMOOTH",
-"95 1442 OFFCURVE",
-"119 1434 OFFCURVE",
-"119 1407 CURVE SMOOTH",
-"119 1371 OFFCURVE",
-"79 1340 OFFCURVE",
-"0 1313 CURVE",
-"0 1239 LINE",
-"159 1282 OFFCURVE",
-"238 1357 OFFCURVE",
-"238 1464 CURVE SMOOTH"
+"119 1539 OFFCURVE",
+"71 1589 OFFCURVE",
+"-4 1589 CURVE SMOOTH",
+"-65 1589 OFFCURVE",
+"-96 1564 OFFCURVE",
+"-96 1513 CURVE SMOOTH",
+"-96 1477 OFFCURVE",
+"-72 1464 OFFCURVE",
+"-48 1453 CURVE SMOOTH",
+"-24 1442 OFFCURVE",
+"0 1434 OFFCURVE",
+"0 1407 CURVE SMOOTH",
+"0 1371 OFFCURVE",
+"-40 1340 OFFCURVE",
+"-119 1313 CURVE",
+"-119 1239 LINE",
+"40 1282 OFFCURVE",
+"119 1357 OFFCURVE",
+"119 1464 CURVE SMOOTH"
 );
 }
 );
-width = 238;
+width = 0;
 }
 );
 unicode = 0313;
@@ -49719,6 +49719,7 @@ quotedbl = -20;
 quotedblright = -20;
 quoteright = -20;
 quotesingle = -20;
+s = 0;
 };
 aacute = {
 quotedbl = -20;
@@ -51298,6 +51299,9 @@ quotedblright = -20;
 quoteright = -20;
 quotesingle = -20;
 };
+q = {
+uni02B7 = -50;
+};
 quotedbl = {
 A = -143;
 Aacute = -143;
@@ -52160,6 +52164,11 @@ z = -20;
 zacute = -20;
 zcaron = -20;
 zdotaccent = -20;
+};
+uni02B7 = {
+a = -150;
+schwa = -90;
+space = 0;
 };
 uni0394 = {
 Omicron = -41;
