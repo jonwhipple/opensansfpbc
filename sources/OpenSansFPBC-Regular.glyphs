@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/strokeshortcomb"
+);
 copyright = "Digitized data copyright (C) 2010-2011, Google Corporation.";
 customParameters = (
 {
@@ -41935,7 +41938,7 @@ unicode = 031F;
 {
 color = 4;
 glyphname = uni0320;
-lastChange = "2018-08-06 04:06:46 +0000";
+lastChange = "2018-08-06 04:21:33 +0000";
 layers = (
 {
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
@@ -42755,7 +42758,7 @@ unicode = 0334;
 {
 color = 4;
 glyphname = strokeshortcomb;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-08-06 04:49:24 +0000";
 layers = (
 {
 anchors = (
@@ -42765,7 +42768,18 @@ position = "{0, 0}";
 }
 );
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 619 LINE",
+"581 619 LINE",
+"581 760 LINE",
+"0 760 LINE"
+);
+}
+);
+width = 581;
 }
 );
 unicode = 0335;
@@ -42773,17 +42787,28 @@ unicode = 0335;
 {
 color = 4;
 glyphname = uni0336;
-lastChange = "2017-05-07 23:59:40 +0000";
+lastChange = "2018-08-06 04:24:34 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{0, 0}";
+position = "{50, 0}";
 }
 );
 layerId = "2E634D02-5A4A-4A55-A314-31ACA041593B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 619 LINE",
+"781 619 LINE",
+"781 760 LINE",
+"0 760 LINE"
+);
+}
+);
+width = 781;
 }
 );
 unicode = 0336;
