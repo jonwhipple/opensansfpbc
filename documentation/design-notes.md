@@ -14,6 +14,9 @@ Componentize hooks
 
 Some questions to answer
   - Should bottom hooks go to full decender depth? YES match lc letters
+<<<<<<< HEAD
+  - Should top hooks go to ascender height? YES let's look consistent
+=======
   - Should top hooks go to ascender height? YES let's look consistent
 
 ## 2018-06-26
@@ -26,3 +29,4 @@ Curls such as ccurl and ezhcurl and others: should they curl down? or across hor
 ## 2018-06-27
 
 review omegaclosed-latin uni0277 and reconstruct it properly. all weights
+>>>>>>> 23f81510023e79030f83f19a24dc8eecf2de5145

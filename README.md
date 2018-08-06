@@ -9,9 +9,9 @@ The secondary, but no less important goal, is to complete and test the expanded 
 
 ## Language Coverage
 
-At time of this writing (2018-06-23), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
+At time of this writing (2018-08-05), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
 
-Qualified coverage means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
+_Qualified coverage_ means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
 
 The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
 - Light
@@ -20,7 +20,7 @@ The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméy
 - BoldItalic
 
 The following weights provide only partial coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
-- Regular ← this is where most of the action is presently (2018-06-25), see branch `more-coverage`
+- Regular ← this is where most of the action is presently (2018-08-05), see branch `more-coverage`
 - Italic
 - Semibold
 - Semibold-Italic
@@ -38,6 +38,6 @@ The following weights provide only partial coverage for **Hul’q’umi’num’
 
 `documentation` contains the design brief as well as other notes and files.
 
-`fonts` contains compiled binary font files as a reference (see [Google Fonts Quick Start](https://github.com/googlefonts/gf-docs/blob/master/QuickStartGlyphs.md) )
+`fonts` contains compiled binary font files as a reference (see [Google Fonts Quick Start](https://github.com/googlefonts/gf-docs/blob/master/QuickStartGlyphs.md) ).
 
-`sources` contains source `.glyphs` files
+`sources` contains source `.glyphs` files.
