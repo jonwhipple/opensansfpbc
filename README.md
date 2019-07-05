@@ -3,7 +3,7 @@ This is an Open Sans variant to add coverage for all the orthographies of the la
 
 ## Goals
 
-The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia. Bitish Columbia is home to 60% of First Nations languages in Canada with 34 unique languages ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet](http://www.fpcc.ca/files/PDF/Language/2014_Language_Report_Fact_Sheet.pdf) – PDF ).
+The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia. British Columbia is home to 60% of First Nations languages in Canada with 34 unique languages ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet](http://www.fpcc.ca/files/PDF/Language/2014_Language_Report_Fact_Sheet.pdf) – PDF ).
 
 The secondary, but no less important goal, is to complete and test the expanded fonts and submit to Google Fonts for reintegration into Open Sans.
 
