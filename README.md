@@ -11,7 +11,7 @@ This branch of the project will add those required glyphs in the required weight
 
 ## Language Coverage
 
-At time of this writing (2018-08-05), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
+At time of this writing (2022-11-26), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
 
 _Qualified coverage_ means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
 
@@ -22,7 +22,7 @@ The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméy
 - BoldItalic
 
 The following weights provide only partial coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
-- Regular ← this is where most of the action is presently (2018-08-05), see branch `more-coverage`
+- Regular
 - Italic
 - Semibold
 - Semibold-Italic
@@ -31,8 +31,7 @@ The following weights provide only partial coverage for **Hul’q’umi’num’
 
 ## Directory Structure
 
-`dist` contains compressed (`.zip`) archives of compiled binaries in 5 flavours:
-- Embedded OpenType (`.eot`)
+`dist` contains compressed (`.zip`) archives of compiled binaries in 4 flavours:
 - OpenType Font (`.otf`)
 - TrueType Font (`.ttf`)
 - Web Open Font Format File (`.woff`)
