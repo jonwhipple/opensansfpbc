@@ -1,15 +1,13 @@
 # Open Sans – First Peoples of British Columbia
-This is an Open Sans variant to add coverage for all the orthographies of the languages of the First Peoples of British Columbia.
-
-## Goals
-
-The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia.                
-
-British Columbia is unique within Canada when it comes to Indigenous language diversity. In the context of Canada, B.C.’s languages make up more than 50% of the approximately 61 languages indigenous to this country.
+This is an Open Sans variant to add coverage for all the orthographies of the languages of the First Peoples of British Columbia. British Columbia is unique within Canada when it comes to Indigenous language diversity. In the context of Canada, B.C.’s languages make up more than 50% of the approximately 61 languages indigenous to this country.
 • There are 34 First Nations languages within 7 distinct unrelated language families.
 • There are 3 languages once spoken that are now sleeping.
 • Languages Indigenous to other parts of Canada are now spoken in B.C. because of migration.
 ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet] (https://fpcc.ca/wp-content/uploads/2020/05/FPCC-Fact-Sheet-Language-Report-2018.pdf) – PDF ).
+
+## Goals
+
+The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia.
 
 The secondary, but no less important goal, is to complete and test the expanded fonts and submit to Google Fonts for reintegration into Open Sans.
 
