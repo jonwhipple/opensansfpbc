@@ -3,13 +3,13 @@ This is an Open Sans variant to add coverage for all the orthographies of the la
 
 ## Goals
 
-The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia. British Columbia is home to 60% of First Nations languages in Canada with 34 unique languages ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet](http://www.fpcc.ca/files/PDF/Language/2014_Language_Report_Fact_Sheet.pdf) – PDF ).
+The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia. British Columbia is home to 60% of First Nations languages in Canada with 34 unique languages ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet](https://fpcc.ca/wp-content/uploads/2020/07/2014_Language_Report_Fact_Sheet.pdf) – PDF ).
 
 The secondary, but no less important goal, is to complete and test the expanded fonts and submit to Google Fonts for reintegration into Open Sans.
 
 ## Language Coverage
 
-At time of this writing (2018-08-05), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
+At time of this writing (2022-11-26), the fonts provide _qualified coverage_ for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**, as well as **International Phonetic Alphabet**, in addition to the coverage of normally provided by Open Sans.
 
 _Qualified coverage_ means that some weights are complete and others are not yet, but have sufficient coverage for use in https://www.vpl.ca
 
@@ -20,7 +20,7 @@ The following weights provide coverage for **Hul’q’umi’num’ / Halq'eméy
 - BoldItalic
 
 The following weights provide only partial coverage for **Hul’q’umi’num’ / Halq'eméylem / hən̓q̓əmin̓əm**:
-- Regular ← this is where most of the action is presently (2018-08-05), see branch `more-coverage`
+- Regular
 - Italic
 - Semibold
 - Semibold-Italic
@@ -29,8 +29,7 @@ The following weights provide only partial coverage for **Hul’q’umi’num’
 
 ## Directory Structure
 
-`dist` contains compressed (`.zip`) archives of compiled binaries in 5 flavours:
-- Embedded OpenType (`.eot`)
+`dist` contains compressed (`.zip`) archives of compiled binaries in 4 flavours:
 - OpenType Font (`.otf`)
 - TrueType Font (`.ttf`)
 - Web Open Font Format File (`.woff`)
