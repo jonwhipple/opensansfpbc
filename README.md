@@ -1,11 +1,13 @@
-# Open Sans – First Peoples of British Columbia
+# Open Sans – IPA
 This is an Open Sans variant to add coverage for all the orthographies of the languages of the First Peoples of British Columbia.
 
 ## Goals
 
-The primary goal of this project is to expand the language coverage of Open Sans to support the orthographies of all the languages of all the First Peoples of British Columbia. British Columbia is home to 60% of First Nations languages in Canada with 34 unique languages ( [Report on the Status of B.C. First Nations Languages 2014, Second Edition, Fact Sheet](http://www.fpcc.ca/files/PDF/Language/2014_Language_Report_Fact_Sheet.pdf) – PDF ).
+The primary goal of this project is to continue support for Vancouver Public Library's use of Open Sans on https//:www.vpl.ca. As First Nations refine how they express their language in written form, changes are necessary. Additionally, VPL has begun to use weights of this type family that were not originally required.
 
-The secondary, but no less important goal, is to complete and test the expanded fonts and submit to Google Fonts for reintegration into Open Sans.
+This means that some weights do not have required glyphs.
+
+This branch of the project will add those required glyphs in the required weights as needed or as can be undertaken.
 
 ## Language Coverage
 
