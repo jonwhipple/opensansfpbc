@@ -3,7 +3,7 @@ This is an Open Sans variant to add coverage for all the orthographies of the la
 • There are 34 First Nations languages within 7 distinct unrelated language families.
 • There are 3 languages once spoken that are now sleeping.
 • Languages Indigenous to other parts of Canada are now spoken in B.C. because of migration.
-( [Report on the Status of B.C. First Nations Languages 2018, third Edition, Fact Sheet] (https://fpcc.ca/wp-content/uploads/2020/05/FPCC-Fact-Sheet-Language-Report-2018.pdf) – PDF ).
+( [Report on the Status of B.C. First Nations Languages 2018, Third Edition, Fact Sheet] (https://fpcc.ca/wp-content/uploads/2020/05/FPCC-Fact-Sheet-Language-Report-2018.pdf) – PDF ).
 
 ## Goals
 
