@@ -1071,8 +1071,8 @@ name = liga;
 );
 fontMaster = (
 {
-ascender = 1567;
-capHeight = 1462;
+ascender = 765;
+capHeight = 714;
 customParameters = (
 {
 name = typoAscender;
@@ -1111,12 +1111,12 @@ name = underlineThickness;
 value = 102;
 }
 );
-descender = -492;
+descender = -240;
 id = "9722DBBA-DA2B-4164-95B3-8AF620E947BE";
 weight = Bold;
 weightValue = 800;
 widthValue = 5;
-xHeight = 1133;
+xHeight = 546;
 }
 );
 glyphs = (
