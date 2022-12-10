@@ -1,9 +1,18 @@
+## IMPORTANT NOTICE
+2022-12-10
+
+**DO NOT USE IN PRODUCTION** Switch to the `open-sans-ipa` branch and use those file for now.
+
+I will be making an interim release available shortly that will have full coverage in some weights.
+
+Please contact me via email if you have questions about this work. jon@jonwhipple.com
+
 # Open Sans – First Peoples of British Columbia
 This is an Open Sans variant to add coverage for all the orthographies of the languages of the First Peoples of British Columbia. British Columbia is unique within Canada when it comes to Indigenous language diversity. In the context of Canada, B.C.’s languages make up more than 50% of the approximately 61 languages indigenous to this country.
 • There are 34 First Nations languages within 7 distinct unrelated language families.
 • There are 3 languages once spoken that are now sleeping.
 • Languages Indigenous to other parts of Canada are now spoken in B.C. because of migration.
-( [Report on the Status of B.C. First Nations Languages 2018, Third Edition, Fact Sheet] (https://fpcc.ca/wp-content/uploads/2020/05/FPCC-Fact-Sheet-Language-Report-2018.pdf) – PDF ).
+( (Report on the Status of B.C. First Nations Languages 2018, Third Edition, Fact Sheet) [https://fpcc.ca/wp-content/uploads/2020/05/FPCC-Fact-Sheet-Language-Report-2018.pdf] – PDF ).
 
 ## Goals
 
