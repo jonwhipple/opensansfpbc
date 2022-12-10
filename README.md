@@ -1,7 +1,7 @@
 ## IMPORTANT NOTICE
 2022-12-10
 
-**DO NOT USE IN PRODUCTION** Switch to the `open-sans-ipa` branch and use those file for now.
+**DO NOT USE IN PRODUCTION** Switch to the `open-sans-ipa` branch and use those files for now.
 
 I will be making an interim release available shortly that will have full coverage in some weights.
 
