@@ -53350,7 +53350,7 @@ tau = -41;
 };
 manufacturer = "Ascender Corporation";
 manufacturerURL = "http://www.ascendercorp.com/";
-unitsPerEm = 1000;
+unitsPerEm = 2048;
 versionMajor = 1;
 versionMinor = 100;
 }
