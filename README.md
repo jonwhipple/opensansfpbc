@@ -1,9 +1,11 @@
 ## IMPORTANT NOTICE
 2022-12-10
 
-**DO NOT USE IN PRODUCTION** Switch to the `open-sans-ipa` branch and use those files for now.
+Go to [this repo](https://github.com/jonwhipple/opensansipa) to get files with complete IPA coverage
 
-I will be making an interim release available shortly that will have full coverage in some weights.
+https://github.com/jonwhipple/opensansipa
+
+**DO NOT USE IN PRODUCTION** 
 
 Please contact me via email if you have questions about this work. jon@jonwhipple.com
 
